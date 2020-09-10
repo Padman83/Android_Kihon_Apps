@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_items">
+        <item>Egg</item>
+        <item>Avocado</item>
+        <item>Milk</item>
+        <item>Sweet Potato</item>
+        <item>Brown Sugar</item>
+    </string-array>
+</resources>
