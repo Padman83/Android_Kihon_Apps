@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditText_Dialog</string>
+    <string name="tap_to_change_the_text">Tap to change the text</string>
+    <string name="enter_a_text">Enter a text...</string>
+</resources>
