@@ -1,3 +1,3 @@
 # 🤖 Android_Kihon_Apps
 
-### A collection of Android 🤖 Apps written in Kotlin.
+### A collections of 🤖 newbie projects written in Kotlin.
