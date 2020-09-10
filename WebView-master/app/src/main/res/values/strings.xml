@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="url">https://developer.android.com/</string>
+</resources>
