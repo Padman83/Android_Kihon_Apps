@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/nav_notification"
+        android:icon="@drawable/ic_baseline_notifications_none_24"
+        android:title="Notification Selected"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favourite Selected"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/nav_rate_review"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        android:title="Rate Review Selected"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/nav_delete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="Delete Selected"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
