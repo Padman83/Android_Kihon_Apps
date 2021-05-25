@@ -2,12 +2,10 @@
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/90661263-8ea01f00-e279-11ea-858d-ecb217c9d658.gif)
 
-### 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Android Studio
 * 100 % Kotlin
-
-### 🛠️ Installation 
 
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
