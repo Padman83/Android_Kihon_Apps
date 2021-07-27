@@ -1,4 +1,4 @@
-## 📱 Splash_Screen
+## 🤖 📱 Splash_Screen
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/90911485-a6a7a800-e40b-11ea-9412-ecc6af1a1cd4.gif)
 
