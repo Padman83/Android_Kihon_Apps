@@ -4,8 +4,7 @@
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Android Studio
-* 100 % Kotlin
+* Android Studio + 100 % Kotlin
 
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
