@@ -7,8 +7,7 @@
 
 ### 🏗️ Built With :
 
-* Android Studio
-* 100 % Kotlin
+* Android Studio + 100% Kotlin
 
 ### 🔨 Installation :
  
