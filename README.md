@@ -1,4 +1,4 @@
-# 🤖 ANDROID
+# 🤖
 
 ### A collections of 🤖 tutorial projects written in Kotlin.
 
