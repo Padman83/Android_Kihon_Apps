@@ -2,7 +2,7 @@
 
 ![ezgif com-optimize-2](https://user-images.githubusercontent.com/45048950/92330959-87647800-f0a5-11ea-9738-558c370b9fdd.gif)
 
-### 🧰 System + 🛠️ Installation:
+### 🧰 Systems + 🛠️ Installation:
 
 * Android Studio + Kotlin 
 
