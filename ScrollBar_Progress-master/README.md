@@ -4,7 +4,7 @@
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Android Studio | Kotlin
+* Android Studio + Kotlin
 
 ###  
 
